@@ -5,7 +5,7 @@ This study investigates the impact of non-equity marketing alliances on the firm
 By considering the indirect impact of firm-specific factors, we apply the independent sample t test for the intergroup comparison method, which helps to examine whether the factors could have impact on the abnormal returns of marketing alliances announcements. The findings indicate that small-size firms forming marketing alliances create more firm value than large-size firms do (the mean difference of -0.97 reaching 5% significance level). In addition, the results do not find evidence to support that partner location has a significant impact on the firm value creation for firms in the United States. Besides, as we categorise the alliance type for marketing alliances into two groups: mixed marketing alliance (marketing alliance combined with technological alliance) and pure marketing alliance, the findings show that pure marketing alliance contributes to increasing firm value more than mixed marketing (the mean difference of -0.051 with 5% significance level) during the period between one day before the announced date and one day after.
 
 Hypotheses:
-<img src="PNG/hypotheses" width=700>
+<img src="PNG/hypotheses.png" width=600>
 
 <img src="PNG/Screenshot 2020-02-12 at 08.53.02.png" width=700>
 In order to examine the hypotheses, we’ve gone through date collection, data cleaning and processing, and data analysis. So this flow chart can make us better understand the overall process.
@@ -17,5 +17,9 @@ we must follow the exact same format in order to perform the analysis in the eve
 3. Once we complete three excel files, we upload three files to eventstudytools website to generate the analysis report. Also, we need to extract the CAR value from the report for intergroup comparison in SPSS tool.
 
 Event study methodology findings:
-<img src="PNG/event1" width=700>
-<img src="PNG/event2" width=700>
+<img src="PNG/event1.png" width=600>
+<img src="PNG/event2.png" width=600>
+
+Independent sample t test findings:
+<img src="PNG/t1.png" width=600>
+<img src="PNG/t2.png" width=600>
