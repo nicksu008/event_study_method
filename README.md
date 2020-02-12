@@ -4,11 +4,18 @@ This study investigates the impact of non-equity marketing alliances on the firm
 
 By considering the indirect impact of firm-specific factors, we apply the independent sample t test for the intergroup comparison method, which helps to examine whether the factors could have impact on the abnormal returns of marketing alliances announcements. The findings indicate that small-size firms forming marketing alliances create more firm value than large-size firms do (the mean difference of -0.97 reaching 5% significance level). In addition, the results do not find evidence to support that partner location has a significant impact on the firm value creation for firms in the United States. Besides, as we categorise the alliance type for marketing alliances into two groups: mixed marketing alliance (marketing alliance combined with technological alliance) and pure marketing alliance, the findings show that pure marketing alliance contributes to increasing firm value more than mixed marketing (the mean difference of -0.051 with 5% significance level) during the period between one day before the announced date and one day after.
 
+Hypotheses:
+<img src="PNG/hypotheses" width=700>
 
 <img src="PNG/Screenshot 2020-02-12 at 08.53.02.png" width=700>
 In order to examine the hypotheses, we’ve gone through date collection, data cleaning and processing, and data analysis. So this flow chart can make us better understand the overall process.
 The ultimate goal of the process is to get three essential excel files: Request File, Firm Data, and Market Data. 
 we must follow the exact same format in order to perform the analysis in the eventstudytools website.
-  1.In the data collection,We collect the data from MarketLine Advantage database, then we filter the data and copy to Data Collection excel file. Based on the data collection excel file, we use company ticker to search the company and gather financial data.  If the company cannot be found or has missing data, we filter it out.
-  2.The most complicated part of process is to combine all the financial data into one excel file. But it will be easier if we use Rstudio progamming language.
-  3.Once we complete three excel files, we upload three files to eventstudytools website to generate the analysis report. Also, we need to extract the CAR value from the report for intergroup comparison in SPSS tool.
+
+1. In the data collection,We collect the data from MarketLine Advantage database, then we filter the data and copy to Data Collection excel file. Based on the data collection excel file, we use company ticker to search the company and gather financial data.  If the company cannot be found or has missing data, we filter it out.
+2. The most complicated part of process is to combine all the financial data into one excel file. But it will be easier if we use Rstudio progamming language.
+3. Once we complete three excel files, we upload three files to eventstudytools website to generate the analysis report. Also, we need to extract the CAR value from the report for intergroup comparison in SPSS tool.
+
+Event study methodology findings:
+<img src="PNG/event1" width=700>
+<img src="PNG/event2" width=700>
