@@ -12,6 +12,7 @@ By considering the indirect impact of firm-specific factors, we apply the indepe
 In order to examine the hypotheses, we’ve gone through date collection, data cleaning and processing, and data analysis. So this flow chart can make us better understand the overall process.
 The ultimate goal of the process is to get three essential excel files: Request File, Firm Data, and Market Data. 
 we must follow the exact same format in order to perform the analysis in the eventstudytools website.
+
 <img src="PNG/Screenshot 2020-02-12 at 08.53.02.png" width=700>
 
 1. In the data collection,We collect the data from MarketLine Advantage database, then we filter the data and copy to Data Collection excel file. Based on the data collection excel file, we use company ticker to search the company and gather financial data.  If the company cannot be found or has missing data, we filter it out.
